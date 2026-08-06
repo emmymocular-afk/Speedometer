@@ -1,0 +1,8 @@
+{
+  "name": "Speedometer GPS",
+  "description": "Ứng dụng đo tốc độ chính xác dành cho xe máy và ô tô với cảnh báo giới hạn tốc độ, thống kê hành trình và bộ giả lập kiểm thử.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
